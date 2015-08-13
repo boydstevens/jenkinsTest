@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ExampleSSIS", "ExampleSSIS\ExampleSSIS.dtproj", "{DAFF1F1C-54DC-4CCA-81A0-2DA72928AA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFF1F1C-54DC-4CCA-81A0-2DA72928AA02}.Development|Default.ActiveCfg = Development
+		{DAFF1F1C-54DC-4CCA-81A0-2DA72928AA02}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
